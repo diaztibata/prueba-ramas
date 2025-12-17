@@ -1,0 +1,10 @@
+.one{
+    background-color: navy;
+    &__two{
+        background-color: red;
+    }
+}
+
+.three{
+    background-color: pink;
+}
